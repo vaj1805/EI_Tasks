@@ -1,0 +1,6 @@
+Use Case: A news agency publishes stories. Multiple news channels (subscribers) need to be notified 
+automatically whenever a new story is published.
+
+Pattern Purpose: The Observer pattern defines a one-to-many dependency between objects. 
+When one object (the subject) changes state, all its dependents (observers) are 
+notified and updated automatically.

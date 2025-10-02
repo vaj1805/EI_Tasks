@@ -1,0 +1,5 @@
+Use Case: An application needs a single, globally accessible configuration manager. 
+Creating multiple instances would be redundant and could lead to inconsistent settings.
+
+Pattern Purpose: The Singleton pattern ensures that a class has only one 
+instance and provides a global point of access to it.

@@ -1,0 +1,6 @@
+Use Case: You have a new, third-party weather reporting service with a modern interface, 
+but your existing application is built to work with an older, 
+different weather service interface.
+
+Pattern Purpose: The Adapter pattern acts as a bridge between two incompatible interfaces, 
+allowing them to work together.

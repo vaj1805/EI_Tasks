@@ -1,0 +1,8 @@
+
+Use Case: You're building a coffee shop application. 
+A basic coffee can be dynamically "decorated" with extra options like milk or sugar, 
+each adding to the cost and description.
+
+Pattern Purpose: The Decorator pattern allows you to attach 
+new behaviors to objects dynamically by placing them inside special "wrapper" objects 
+that contain the behaviors.

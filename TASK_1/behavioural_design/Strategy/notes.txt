@@ -1,0 +1,8 @@
+Use Case: An e-commerce application needs to process payments. 
+The user can choose to pay 
+via Credit Card or PayPal at checkout. 
+The payment algorithm should be selectable at runtime.
+
+Pattern Purpose: The Strategy pattern defines a family of algorithms, 
+encapsulates each one, and makes them interchangeable. 
+It lets the algorithm vary independently from the clients that use it.

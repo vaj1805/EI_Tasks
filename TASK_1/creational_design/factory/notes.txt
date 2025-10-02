@@ -1,0 +1,8 @@
+USE CASE:
+A document processing application needs to create different types of documents (e.g., Word, PDF). 
+The main application shouldn't be tightly coupled to the concrete document classes.
+
+PATTERN PURPOSE:
+The Factory Method pattern defines an interface for creating an object, but lets subclasses decide 
+which class to instantiate.
+
